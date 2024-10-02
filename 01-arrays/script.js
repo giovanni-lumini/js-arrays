@@ -1,6 +1,5 @@
 console.log("hello");
 
-
 const teachers = [
   'Nathan',
   'Ed',
